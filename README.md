@@ -16,5 +16,5 @@ Avant de commencer, assurez-vous d'avoir installé :
 ## Installation
 1. Clonez le dépôt GitHub :
    ```bash
-   git clone [https://github.com/votre-utilisateur/votre-repo.git](https://github.com/poyzin51/open-to-do-list)
+   git clone (https://github.com/poyzin51/open-to-do-list)
    cd votre-repo
